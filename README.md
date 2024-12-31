@@ -14,3 +14,9 @@ This app includes a feature to persist tasks using local storage and offers the 
 1. **Add Tasks**: Type your task in the input field and press the "Add" button (or press `Enter`).
 2. **Remove Tasks**: Click on the trash icon next to the task to remove it from the list.
 3. **Dark/Light Mode**: Click the button in the bottom left corner to change the theme of the app.
+
+## Technologies Used
+
+- **HTML**: For the structure of the app.
+- **CSS**: For styling the app and implementing the dark and light modes.
+- **JavaScript**: To manage tasks, toggle the modes, and use local storage.
