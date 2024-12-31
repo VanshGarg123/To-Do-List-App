@@ -20,3 +20,5 @@ This app includes a feature to persist tasks using local storage and offers the 
 - **HTML**: For the structure of the app.
 - **CSS**: For styling the app and implementing the dark and light modes.
 - **JavaScript**: To manage tasks, toggle the modes, and use local storage.
+
+App Link - https://vanshgarg123.github.io/To-Do-List-App/
